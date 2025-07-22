@@ -11,3 +11,5 @@ A simple and lightweight bookmark manager built using just HTML. Perfect for per
 - Minimal
 - No backend or database required
 - Fast and fully offline-capable
+
+### 🌐 [Click to access](https://thealokverse.github.io/Bookmark-Manager/)
